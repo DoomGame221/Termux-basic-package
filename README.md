@@ -43,10 +43,10 @@ termux-setup-storage.
    $ apt install python 
    ```
    ```
-   $ git clone https://github.com/Hackertrackersj/Termux--Package
+   $ git clone https://github.com/DoomGame221/Termux-basic-package.git
    ```
    ```
-   $ cd Termux-package
+   $ cd Termux-basic-package
    ```
    ```
    $ ls
@@ -58,7 +58,7 @@ termux-setup-storage.
    $ ls
    ```
    ```
-   $ python termux-package.py
+   $ python termux-basic-package.py
 ```
 
 This will take too much time it's depends on your data connection. 
